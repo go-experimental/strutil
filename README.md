@@ -1,4 +1,11 @@
-# strutil
+strutil
+=======
+[![Build Status](https://travis-ci.org/go-experimental/strutil.svg?branch=master)](https://travis-ci.org/go-experimental/strutil)
+[![Coverage Status](https://coveralls.io/repos/github/go-experimental/strutil/badge.svg?branch=master)](https://coveralls.io/github/go-experimental/strutil?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-experimental/strutil)](https://goreportcard.com/report/github.com/go-experimental/strutil)
+[![GoDoc](https://godoc.org/github.com/go-experimental/strutil?status.svg)](https://godoc.org/github.com/go-experimental/strutil)
+![License](https://img.shields.io/dub/l/vibe-d.svg)
+
 utility package for common string operations ( helping me to compare Go to Rust ) https://github.com/rust-playground/strutil
 
 ## Why
