@@ -16,4 +16,4 @@ I am attempting to create the most efficient and idiomatic Go & Rust code possib
 
 Hopefully everyone can learn something new :)
 
-If you can make any of the functions more efficient, with better throughput or less allocations, ... make a pull request, I'll test and if it beats the current implementation I'll merge and now your the one to beat!
+If you can make any of the functions more efficient, with better throughput or less allocations, ... make a pull request, I'll test and if it beats the current implementation I'll merge and now you're the one to beat!
