@@ -10,6 +10,8 @@ import (
 func IsPalindrome(s string) bool {
 
 	// after some testing this seems to be tuned properly.
+	// > 32 chars starts allocating with this functions
+	// < 8 chars is slower with this function
 	if len(s) > 7 && len(s) < 33 {
 		return isPalindromeSmall(s)
 	}

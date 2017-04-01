@@ -42,6 +42,10 @@ func TestPalindrome(t *testing.T) {
 			val:      "♥bb♥",
 			expected: true,
 		},
+		{
+			val:      "abcddcbb",
+			expected: false,
+		},
 	}
 
 	for i, tt := range tests {
